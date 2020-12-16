@@ -8,6 +8,8 @@ In this repo I will be adding supercool frontend features
 ![Hnet com-image](https://user-images.githubusercontent.com/43912597/101617489-acff7580-3a36-11eb-9a45-e64f82456c4c.gif)
 # calculator
 ![Hnet com-image (1)](https://user-images.githubusercontent.com/43912597/102068809-f0852580-3e22-11eb-9635-69dcd762b61c.gif)
+# glassmorphism
+![Hnet-image](https://user-images.githubusercontent.com/43912597/102350216-945d0580-3fca-11eb-9d4b-1b0c1fab0a03.gif)
 # Animated Eyes Follow Mouse Cursor
 ![Hnet com-image](https://user-images.githubusercontent.com/43912597/101613711-18931400-3a32-11eb-9d70-85bfb8ae0249.gif)
 # wavy loader
